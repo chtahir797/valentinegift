@@ -1,0 +1,14 @@
+<svg width="220" height="140" viewBox="0 0 220 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="140" rx="24" fill="#FCA5A5"/>
+  <rect x="20" y="24" width="180" height="96" rx="18" fill="#F97373"/>
+  <circle cx="90" cy="72" r="34" fill="#111827"/>
+  <circle cx="90" cy="72" r="11" fill="#F9A8D4"/>
+  <circle cx="90" cy="72" r="4" fill="#111827"/>
+  <rect x="130" y="42" width="10" height="60" rx="4" fill="#FECACA"/>
+  <rect x="140" y="54" width="34" height="9" rx="4" fill="#FEE2E2"/>
+  <circle cx="165" cy="96" r="6" fill="#FEE2E2"/>
+  <circle cx="147" cy="96" r="6" fill="#FEE2E2"/>
+  <text x="110" y="20" font-size="12" text-anchor="middle" fill="#FDF2F8">dummy player</text>
+</svg>
+
+
